@@ -7,7 +7,7 @@ Application Images
 ![SplashScreen With Gif](https://i.imgur.com/YxljOGf.png)
 
 
-![Application Showing City weather](https://i.imgur.com/FVnAwWP.png)
+![Application Showing City weather]([https://i.imgur.com/FVnAwWP.png](https://cdn.discordapp.com/attachments/1136429175557857404/1187090552043356211/Screenshot_2023-08-25_182859.png?ex=65959f3a&is=65832a3a&hm=c3b4d317ccd4347c42dc91e316190b33c235169fcd51918a26eac923a33064d1&))
 
 
 ![alt text](https://i.imgur.com/Kfz9Hrm.png)
